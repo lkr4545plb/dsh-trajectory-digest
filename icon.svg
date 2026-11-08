@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Trajectory Digest">
+  <rect x="3" y="3" width="58" height="58" rx="14" fill="#2a1a3d"/>
+  <path d="M16 20h24M16 28h32M16 36h18" stroke="#c9a6ff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M16 44h8" stroke="#7ef0c0" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="44" cy="44" r="8" fill="none" stroke="#7ef0c0" stroke-width="3"/>
+  <path d="M38 50l-4 4" stroke="#7ef0c0" stroke-width="3" stroke-linecap="round"/>
+</svg>

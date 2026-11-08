@@ -1,0 +1,11 @@
+- insert:
+    - id: trajectory-digest
+      name: 'dsh-trajectory-digest'
+      config:
+        enabled: true
+        mode: age
+        keepRecent: 2
+        minChars: 1600
+        digestChars: 420
+        hugeChars: 40000
+        spill: true

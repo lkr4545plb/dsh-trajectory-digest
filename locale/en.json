@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Trajectory Digest",
+    "description": "Collapses oversized tool output into a bounded digest with a spill path, keeping long sessions small without losing recoverable detail."
+  }
+}
